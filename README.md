@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @maddudev
+- 👀 sou estudante de analise de desenvolvimento de sistemas 
+- 🌱 estou me familiarizando com o mundo da programação
+- 😄 Pronouns: ela/dela
